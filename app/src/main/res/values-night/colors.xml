@@ -7,6 +7,6 @@
     <color name="secondary_color">#0B3954</color>
     <color name="alert_true_color">#85CB33</color>
     <color name="alert_false_color">#BF0603</color>
-    <color name="background_color">#03191E</color>
-    <color name="secondary_color_system">#03191E</color>
+    <color name="background_color">#010B13</color>
+    <color name="secondary_color_system">#010B13</color>
 </resources>
